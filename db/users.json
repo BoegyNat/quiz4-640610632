@@ -9,12 +9,54 @@
     "username": "user1",
     "password": "$2a$12$6lU7JRPa1lbbxnZlGBGJVOWcLxCxKphY2hyhMFydu8Yiyn.kWLAou",
     "isAdmin": false,
-    "money": 1000
+    "money": 60
   },
   {
     "username": "user2",
     "password": "$2a$12$6lU7JRPa1lbbxnZlGBGJVOWcLxCxKphY2hyhMFydu8Yiyn.kWLAou",
     "isAdmin": false,
     "money": 500
+  },
+  {
+    "username": "user3",
+    "password": "$2b$12$da2Xiio3rN0uMwwLfY0qYuBjbZuAM5lmv8Kw8koqNm5BXgMkAgnle",
+    "isAdmin": false,
+    "money": 0
+  },
+  {
+    "username": "GM",
+    "password": "$2b$12$T/x4jyJhFV21yG3AQrzISOJq9hnnrvsVwKbEy8tuJa9DGqAZKsg/u",
+    "isAdmin": true,
+    "money": null
+  },
+  {
+    "username": "user4",
+    "password": "$2b$12$RGjxlMvk8MJMeketR4Ey7Ord/IjdXc8nubhi2Xqq9EhYErS6W3gtS",
+    "isAdmin": false,
+    "money": 0
+  },
+  {
+    "username": "user5",
+    "password": "$2b$12$9CI8adFobi9IgTkkMkDfA.A6usLc4xU9zGOhV3hVF3/upcsKVXOoe",
+    "isAdmin": false,
+    "money": 0
+  },
+  {
+    "username": "user6",
+    "password": "$2b$12$zoEwiWT3ZAgkiQK1h99Xz.0dcX2YbbcM3F0X6fzHZNwAZSk8re.oK",
+    "isAdmin": false,
+    "money": 0
+  },
+  {
+    "username": "BG",
+    "password": "$2b$12$kh/vWYRTRr5DSSshKZyxgO1DVVUAc27FTXBtiPLEPMOdwstCbzSGG",
+    "isAdmin": true,
+    "money": null
+  },
+  {
+    "username": "BG1",
+    "password": "$2b$12$n1EeYJWVoSrXjToO7q.wauTmAMsti4OWHvy2yLysJhtD1zjhhRNim",
+    "isAdmin": true,
+    "money": null
   }
 ]
